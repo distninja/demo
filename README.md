@@ -15,7 +15,7 @@
 
 ## Introduction
 
-*demo* is the build demo of [distninja](https://github.com/distninja).
+*demo* is the demo of [distninja](https://github.com/distninja).
 
 
 
